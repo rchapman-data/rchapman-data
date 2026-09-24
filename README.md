@@ -22,6 +22,7 @@ and Modern Data Engineering & AI with Sparta Global.
 ## Featured Projects
 
 ### Ukraine Data Analysis
+![Ukraine data analysis](images/ukr-newspaper-pipeline-cover.jpeg)
 A self-updating search and Q&A engine over 120,000+ Ukrainian news articles, built end-to-end on AWS, from live ingestion through semantic search to grounded AI answers."
 
 ### UK Small Boats Analysis
