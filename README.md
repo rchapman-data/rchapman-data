@@ -1,16 +1,31 @@
-## Hi there 👋
+# Richard Chapman 
 
-<!--
-**rchapman-data/rchapman-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Research | SQL | Power BI | Excel | Python
 
-Here are some ideas to get you started:
+I'm a London-based data analyst with experience in data analysis,
+visualisation and data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently completed intensive training in Data Analytics with Generation UK
+and Modern Data Engineering & AI with Sparta Global.
+
+## Skills
+
+- SQL
+- Power BI
+- Excel
+- Python
+- AWS
+- MongoDB
+- Git & GitHub
+- APIs
+
+## Featured Projects
+
+### Ukraine Data Analysis
+A self-updating search and Q&A engine over 120,000+ Ukrainian news articles, built end-to-end on AWS, from live ingestion through semantic search to grounded AI answers."
+
+### UK Small Boats Analysis
+Power BI analysis of UK Channel crossing data.
+
+### Reed Jobs API Project
+Job-matching project using Python, APIs and similarity techniques.
