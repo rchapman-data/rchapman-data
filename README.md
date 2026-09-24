@@ -10,14 +10,14 @@ and Modern Data Engineering & AI with Sparta Global.
 
 ## Skills
 
-- SQL
-- Power BI
-- Excel
-- Python
-- AWS
-- MongoDB
-- Git & GitHub
-- APIs
+**Analytics & BI**  
+SQL · Power BI · Excel · Power Query · DAX
+
+**Programming & Data**  
+Python · pandas · MongoDB
+
+**Cloud & Engineering**  
+AWS · APIs · Git · GitHub
 
 ## Featured Projects
 
