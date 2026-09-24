@@ -21,12 +21,62 @@ and Modern Data Engineering & AI with Sparta Global.
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="35%">
+  <img src="images/ukr-newspaper-pipeline-cover.jpeg" width="100%">
+</td>
+<td width="70%">
+
 ### Ukraine Data Analysis
-![Ukraine data analysis](images/ukr-newspaper-pipeline-cover.jpeg)
-A self-updating search and Q&A engine over 120,000+ Ukrainian news articles, built end-to-end on AWS, from live ingestion through semantic search to grounded AI answers."
+
+Analysis of Ukrainian and Russian-language data exploring [your question].
+
+**Tools:** Python · SQL · Power BI
+
+[View project →](YOUR-LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="35%">
+  <img src="images/small boats.png" width="100%">
+</td>
+<td width="70%">
 
 ### UK Small Boats Analysis
-Power BI analysis of UK Channel crossing data.
+
+Power BI analysis of Channel crossing data, focusing on trends over time, vessel numbers and passengers per boat.
+
+**Tools:** Power BI · Power Query · DAX
+
+[View project →](YOUR-LINK)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="35%">
+  <img src="images/reed logo.png" width="100%">
+</td>
+<td width="70%">
 
 ### Reed Jobs API Project
-Job-matching project using Python, APIs and similarity techniques.
+
+Analysis of Ukrainian and Russian-language data exploring [your question].
+
+**Tools:** Python · SQL · Power BI
+
+[View project →](YOUR-LINK)
+
+</td>
+</tr>
+</table>
+
