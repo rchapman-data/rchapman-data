@@ -8,6 +8,9 @@ visualisation and data engineering.
 Recently completed intensive training in Data Analytics with Generation UK
 and Modern Data Engineering & AI with Sparta Global.
 
+- **Email:** rcchap@outlook.com
+- **LinkedIn:** www.linkedin.com/in/richard-chapman15
+
 ## Skills
 
 **Analytics & BI**  
