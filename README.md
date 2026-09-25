@@ -29,7 +29,7 @@ AWS · APIs · Git · GitHub
 <table>
 <tr>
 <td width="35%">
-  <img src="images/ukr-newspaper-pipeline-cover.jpeg" width="100%">
+  <img src="images/ukr-newspaper-pipeline-cover2.jpeg" width="100%">
 </td>
 <td width="70%">
 
@@ -49,7 +49,7 @@ Analysis of Ukrainian and Russian-language data exploring [your question].
 <table>
 <tr>
 <td width="35%">
-  <img src="images/small boats.png" width="100%">
+  <img src="images/small_boats_2.png" width="100%">
 </td>
 <td width="70%">
 
@@ -68,7 +68,7 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 <table>
 <tr>
 <td width="35%">
-  <img src="images/reed logo.png" width="100%">
+  <img src="images/Reed_logo_2.png" width="100%">
 </td>
 <td width="70%">
 
