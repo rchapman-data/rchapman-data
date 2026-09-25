@@ -24,7 +24,7 @@ Python · pandas · MongoDB
 - **Cloud & Engineering**  
 AWS · APIs · Git · GitHub
 
-## Featured Projects
+## Projects
 
 <table>
 <tr>
