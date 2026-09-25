@@ -39,7 +39,7 @@ Analysis of Ukrainian and Russian-language data exploring [your question].
 
 **Tools:** Python · SQL · Power BI
 
-[View project →](YOUR-LINK)
+[View project →](https://github.com/rchapman-data/Ukraine-News-Index)
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ Analysis of Ukrainian and Russian-language data exploring [your question].
 
 **Tools:** Python · SQL · Power BI
 
-[View project →](YOUR-LINK)
+[View project →](https://github.com/rchapman-data/reed-jobs-etl-search)
 
 </td>
 </tr>
