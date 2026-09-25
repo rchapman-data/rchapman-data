@@ -33,8 +33,7 @@ AWS · APIs · Git · GitHub
 </td>
 <td width="70%">
 
-### Ukraine Data Analysis
-
+### [Ukraine Data Analysis](https://github.com/rchapman-data/Ukraine-News-Index)
 Analysis of Ukrainian and Russian-language data exploring [your question].
 
 **Tools:** Python · SQL · Power BI
@@ -73,8 +72,7 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 </td>
 <td width="70%">
 
-### Reed Jobs API Project
-
+### [Reed Jobs API Project](https://github.com/rchapman-data/reed-jobs-etl-search)
 Analysis of Ukrainian and Russian-language data exploring [your question].
 
 **Tools:** Python · SQL · Power BI
