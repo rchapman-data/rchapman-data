@@ -1,5 +1,7 @@
 # Richard Chapman 
 
+## This document is work in progress
+
 ### Data Analyst | Research | SQL | Power BI | Excel | Python
 
 I'm a London-based data analyst with experience in data analysis,
