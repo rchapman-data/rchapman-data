@@ -65,6 +65,8 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 </tr>
 </table>
 
+---
+
 <table>
 <tr>
 <td width="35%">
