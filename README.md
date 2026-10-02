@@ -59,7 +59,7 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 
 **Tools:** Power BI · Power Query · DAX
 
-[View project →](YOUR-LINK)
+[View project →](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
 
 </td>
 </tr>
