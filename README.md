@@ -53,7 +53,7 @@ Analysis of Ukrainian and Russian-language data exploring [your question].
 </td>
 <td width="70%">
 
-### UK Small Boats Analysis
+### [UK Small Boats Analysis](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
 
 Power BI analysis of Channel crossing data, focusing on trends over time, vessel numbers and passengers per boat.
 
