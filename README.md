@@ -17,12 +17,31 @@ and Modern Data Engineering & AI with Sparta Global.
 SQL · Power BI · Excel · Power Query · DAX
 
 - **Programming & Data**  
-Python · pandas · MongoDB
+Python · pandas · matplotlib · MongoDB
 
 - **Cloud & Engineering**  
-AWS · APIs · Git · GitHub
+AWS · APIs · Git · GitHub · Docker
 
 ## Projects
+
+<table>
+<tr>
+<td width="35%">
+  <img src="images/small_boats_overview.png" width="100%">
+</td>
+<td width="70%">
+
+### [UK Small Boats Analysis](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
+
+Boats crossing the Channel now carry nearly five times as many people as in 2020. A Power BI report on six years of Home Office data: the long-term trend, seasonal peaks, and who is making the crossing.
+
+**Tools:** Power BI · Power Query · DAX (time intelligence) · Data modelling
+
+[View project →](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -43,29 +62,6 @@ An end-to-end AWS data pipeline that ingests, cleans and indexes 120,000+ Ukrain
 </table>
 
 
-
-<table>
-<tr>
-<td width="35%">
-  <img src="images/small_boats_2.png" width="100%">
-</td>
-<td width="70%">
-
-### [UK Small Boats Analysis](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
-
-Power BI analysis of Channel crossing data, focusing on trends over time, vessel numbers and passengers per boat.
-
-**Tools:** Power BI · Power Query · DAX
-
-[View project →](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
-
-</td>
-</tr>
-</table>
-
-
-
-
 <table>
 <tr>
 <td width="35%">
@@ -73,11 +69,11 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 </td>
 <td width="70%">
 
-### [London Crime Analysis]()
+### London Crime Analysis (In Progress)
 
 SQL analysis of crime in London. 
 
-**Tools:** Power BI · Power Query · DAX
+**Tools:** SQL (SQL server) · Python · pandas & matplotlib
 
 [View project →]()
 
@@ -87,21 +83,5 @@ SQL analysis of crime in London.
 
 
 
-<table>
-<tr>
-<td width="35%">
-  <img src="images/Reed_logo_2.png" width="100%">
-</td>
-<td width="70%">
 
-### [Reed Jobs API Project](https://github.com/rchapman-data/reed-jobs-etl-search)
-Analysis of Ukrainian and Russian-language data exploring [your question].
-
-**Tools:** Python · SQL · Power BI
-
-[View project →](https://github.com/rchapman-data/reed-jobs-etl-search)
-
-</td>
-</tr>
-</table>
 
