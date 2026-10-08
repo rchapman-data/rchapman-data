@@ -1,7 +1,5 @@
 # Richard Chapman 
 
-## This document is work in progress
-
 ### Data Analyst | Research | SQL | Power BI | Excel | Python
 
 I'm a London-based data analyst with experience in data analysis,
@@ -60,6 +58,28 @@ Power BI analysis of Channel crossing data, focusing on trends over time, vessel
 **Tools:** Power BI · Power Query · DAX
 
 [View project →](https://github.com/rchapman-data/small-boats-arrivals-dashboard)
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<table>
+<tr>
+<td width="35%">
+  <img src="images/london_crime.png" width="100%">
+</td>
+<td width="70%">
+
+### [London Crime Analysis]()
+
+SQL analysis of crime in London. 
+
+**Tools:** Power BI · Power Query · DAX
+
+[View project →]()
 
 </td>
 </tr>
